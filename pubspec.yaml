@@ -1,0 +1,8 @@
+name: merge_map_null_safety
+description: Combine multiple Maps into one (with null safety). Equivalent to Object.assign in JS.
+version: 2.0.0
+homepage: https://github.com/busterc/merge_map_null_safety
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+dev_dependencies:
+  test:
